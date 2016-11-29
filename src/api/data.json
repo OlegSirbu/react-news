@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "author": "BBC Sport",
+      "title": "Rosberg is F1 world champion - reaction & vote",
+      "description": "Live coverage of the title-deciding Abu Dhabi GP, where Nico Rosberg is world champion.",
+      "url": "http://www.bbc.co.uk/sport/live/formula1/37588363",
+      "urlToImage": "http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg",
+      "publishedAt": "2016-11-27T15:42:15Z"
+    },
+    {
+      "author": "CNN Sport",
+      "title": "Rosberg is F1 world champion - reaction & vote",
+      "description": "Live coverage of the title-deciding Abu Dhabi GP, where Nico Rosberg is world champion.",
+      "url": "http://www.bbc.co.uk/sport/live/formula1/37588363",
+      "urlToImage": "http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg",
+      "publishedAt": "2016-11-27T15:42:15Z"
+    },
+    {
+      "author": "UT1",
+      "title": "Rosberg is F1 world champion - reaction & vote",
+      "description": "Live coverage of the title-deciding Abu Dhabi GP, where Nico Rosberg is world champion.",
+      "url": "http://www.bbc.co.uk/sport/live/formula1/37588363",
+      "urlToImage": "http://newsimg.bbc.co.uk/media/images/67165000/jpg/_67165916_67165915.jpg",
+      "publishedAt": "2016-11-27T15:42:15Z"
+    }
+  ]
+}
